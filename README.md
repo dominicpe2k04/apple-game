@@ -4,7 +4,7 @@ Apple Catcher is a Raspberry Pi arcade game that uses an IP camera and hand trac
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=aswg6B4YwsU)
+[![Watch the video](https://img.youtube.com/vi/aswg6B4YwsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=aswg6B4YwsU)
 
 ## Features
 
