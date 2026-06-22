@@ -7,7 +7,7 @@ Click the below image to play the video
 [![Watch the video](https://img.youtube.com/vi/aswg6B4YwsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=aswg6B4YwsU)
 
 led Core bar
-(images/led score bar.png)
+(images/led_score_bar.png)
 ## Features
 
 - Hand-controlled basket movement using MediaPipe hand tracking
