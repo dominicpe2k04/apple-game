@@ -3,7 +3,7 @@
 Apple Catcher is a Raspberry Pi arcade game that uses an IP camera and hand tracking to move a basket left and right. Catch apples to score points, catch golden apples to regain lives, and avoid bombs. The game also drives four RGB LEDs to show lives and score.
 
 ## Demo Video
-
+Click the below image to play the video
 [![Watch the video](https://img.youtube.com/vi/aswg6B4YwsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=aswg6B4YwsU)
 
 ## Features
