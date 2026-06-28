@@ -98,3 +98,8 @@ python main.py
 - The LED pin assignments are defined in `main.py`
 - The game expects the camera stream to be reachable before it starts
 - If you are using a Raspberry Pi, make sure GPIO permissions and camera access are configured correctly
+
+## Author
+
+**dominicpe2k04**
+**email : dominicpe2k04@gmail.com**
